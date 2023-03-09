@@ -1,4 +1,5 @@
-# Love-o-meter upgraded
+# Love-o-meter
+## Arduino project upgraded
 
 I changed the code so that LED expresses the temperature more aptly.
 
