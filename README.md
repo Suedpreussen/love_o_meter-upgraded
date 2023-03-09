@@ -1,4 +1,4 @@
-# love_o_meter-upgraded
+# Love-o-meter upgraded
 
 I changed the code so that LED expresses the temperature more aptly.
 
